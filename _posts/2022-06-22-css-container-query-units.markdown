@@ -7,7 +7,7 @@ categories: CSS
 https://caniuse.com/css-container-query-units
 https://ishadeed.com/article/container-query-units
 
-~~~css
+```css
 .card {
     /* The stacked, base style */
 }
@@ -36,4 +36,4 @@ https://ishadeed.com/article/container-query-units
         font-size: 2rem;
     }
 }
-~~~
+```
