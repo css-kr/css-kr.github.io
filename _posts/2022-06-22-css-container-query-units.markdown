@@ -37,3 +37,11 @@ categories: CSS
     }
 }
 ```
+
+<p class="ciu_embed" data-feature="css-container-query-units" data-periods="future_1,current,past_1,past_2" data-accessible-colours="false">
+<picture>
+<source type="image/webp" srcset="https://caniuse.bitsofco.de/image/css-container-query-units.webp">
+<source type="image/png" srcset="https://caniuse.bitsofco.de/image/css-container-query-units.png">
+<img src="https://caniuse.bitsofco.de/image/css-container-query-units.jpg" alt="Data on support for the once-event-listener feature across the major browsers from caniuse.com">
+</picture>
+</p>
